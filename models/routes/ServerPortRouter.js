@@ -1,5 +1,4 @@
 const express = require('express');
-const app = express();
 const ServerPortRouter = express.Router();
 
 const ServerPort = require('../models/ServerPort');
